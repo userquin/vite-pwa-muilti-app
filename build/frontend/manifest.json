@@ -1,0 +1,29 @@
+{
+  "sub1/index.html": {
+    "file": "assets/sub1.99fd1475.js",
+    "src": "sub1/index.html",
+    "isEntry": true,
+    "imports": [
+      "_modulepreload-polyfill.b7f2da20.js"
+    ]
+  },
+  "sub2/index.html": {
+    "file": "assets/sub2.ed77df99.js",
+    "src": "sub2/index.html",
+    "isEntry": true,
+    "imports": [
+      "_modulepreload-polyfill.b7f2da20.js"
+    ]
+  },
+  "sub3/index.html": {
+    "file": "assets/sub3.50d3ee65.js",
+    "src": "sub3/index.html",
+    "isEntry": true,
+    "imports": [
+      "_modulepreload-polyfill.b7f2da20.js"
+    ]
+  },
+  "_modulepreload-polyfill.b7f2da20.js": {
+    "file": "assets/modulepreload-polyfill.b7f2da20.js"
+  }
+}
