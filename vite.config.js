@@ -1,12 +1,12 @@
 import { resolve } from 'path'
 import { defineConfig } from 'vite'
-
 import { VitePWA } from 'vite-plugin-pwa'
+import pwaConfiguration from './scripts/pwa-configuration'
 
 export default defineConfig({
   root: './frontend',
   plugins: [
-      VitePWA({})
+    VitePWA(pwaConfiguration)
   ],
   build: {
     minify: false,

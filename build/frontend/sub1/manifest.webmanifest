@@ -1,0 +1,1 @@
+{"name":"Vite Plugin PWA","short_name":"PWA for Vite","start_url":"/sub1/","display":"standalone","background_color":"#ffffff","lang":"en","scope":"/sub1/","id":"/sub1/","description":"Zero-config PWA for Vite","theme_color":"#ffffff","icons":[{"src":"pwa-192x192.png","sizes":"192x192","type":"image/png"},{"src":"pwa-512x512.png","sizes":"512x512","type":"image/png"}]}
